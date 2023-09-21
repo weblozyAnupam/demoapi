@@ -12,12 +12,12 @@
       flex-direction: column;
     }
     .card{
-        width: 45rem; 
+        width: 35rem; 
         height: 17rem; 
             
     }
     #myTabs {
-        width: 40rem;
+        width: 38rem;
      font-size: .8rem;
        }
   }
@@ -35,7 +35,7 @@
       flex-direction: column;
     }
     .card{
-        width: 30rem; 
+        width: 24rem; 
         height: 17rem; 
             
     }
@@ -58,7 +58,7 @@
       flex-direction: column;
     }
     .card{
-        width: 20rem; 
+        width: 18rem; 
         height: 17rem; 
             
     }
