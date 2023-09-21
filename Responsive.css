@@ -1,0 +1,70 @@
+@media (max-width: 768px) {
+    .main-container {
+        overflow-x: hidden;
+        display: flex;
+        flex-direction: column;
+        height: 550px;
+        padding:2px; 
+    }
+  
+    .total_conta {
+      display: flex;
+      flex-direction: column;
+    }
+    .card{
+        width: 45rem; 
+        height: 17rem; 
+            
+    }
+    #myTabs {
+        width: 40rem;
+     font-size: .8rem;
+       }
+  }
+  @media (max-width: 558px) {
+    .main-container {
+        overflow-x: hidden;
+        display: flex;
+        flex-direction: column;
+        height: 650px;
+        padding:2px; 
+    }
+  
+    .total_conta {
+      display: flex;
+      flex-direction: column;
+    }
+    .card{
+        width: 30rem; 
+        height: 17rem; 
+            
+    }
+    #myTabs {
+        width:25rem;
+     font-size: .8rem;
+       }
+  }
+  @media (max-width: 400px) {
+    .main-container {
+        overflow-x: hidden;
+        display: flex;
+        flex-direction: column;
+        height: 650px;
+        padding:2px; 
+    }
+  
+    .total_conta {
+      display: flex;
+      flex-direction: column;
+    }
+    .card{
+        width: 20rem; 
+        height: 17rem; 
+            
+    }
+    #myTabs {
+        width:20rem;
+     font-size: .8rem;
+       }
+  }
+  
